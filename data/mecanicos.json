@@ -1,0 +1,10 @@
+[
+    {
+        "id": "481b6df5-39cb-431b-a00b-e6af5300f36c",
+        "nombre": "Juan Perez",
+        "usuario": "juanperez",
+        "password": "juan123",
+        "especialidad": "Motor",
+        "activo": true
+    }
+]

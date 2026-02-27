@@ -1,0 +1,11 @@
+[
+    {
+        "id": "f5aa0bc8-b80e-4cdb-a55f-94aee1dde395",
+        "cliente_id": "84465c77-d577-488c-ae55-8ef5f51cd8cd",
+        "patente": "ABCD12",
+        "marca": "Porsche",
+        "modelo": "911",
+        "anio": 2020,
+        "color": "Rojo"
+    }
+]

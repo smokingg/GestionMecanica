@@ -1,0 +1,28 @@
+[
+    {
+        "id": "94422480-fe98-42e5-a15e-44cdfc20124e",
+        "mecanico_id": "481b6df5-39cb-431b-a00b-e6af5300f36c",
+        "cliente_id": "84465c77-d577-488c-ae55-8ef5f51cd8cd",
+        "vehiculo_id": "f5aa0bc8-b80e-4cdb-a55f-94aee1dde395",
+        "fecha_ingreso": "2026-02-27",
+        "hora_llegada": "09:00",
+        "descripcion": "Ruido en motor",
+        "tareas": [
+            {
+                "nombre": "Cambio de aceite",
+                "completada": true
+            },
+            {
+                "nombre": "Cambio de filtro de aire",
+                "completada": false
+            }
+        ],
+        "estado": "en_proceso",
+        "colacion": {
+            "inicio": "2026-02-27T00:11:56.398707",
+            "fin": "2026-02-27T00:12:34.454987",
+            "duracion_minutos": 0.6
+        },
+        "fecha_creacion": "2026-02-27T00:10:32.191429"
+    }
+]
